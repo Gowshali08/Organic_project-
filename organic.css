@@ -7,7 +7,7 @@
 .home{
     height: 100vh;
     width: 100%;
-    background-image: url("/images_folder/slide.jpg") ;
+    background-image: url("/slide.jpg") ;
     background-repeat: no-repeat;
     background-size: contain;
     display: flex;
@@ -675,4 +675,5 @@ h1>span{
     color:#8ec63f;
     background: white;
     
+
 }
